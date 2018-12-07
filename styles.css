@@ -3,5 +3,9 @@ body{
 }
 h1{
     color: blueviolet
-    font-family: monospace
+    font-family: cursive
+}
+ol{
+    font-size:x-small
+    color:blue
 }
